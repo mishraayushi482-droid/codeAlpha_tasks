@@ -1,6 +1,6 @@
 # Basic Chatbot
 Welcome to the **Basic Chatbot** Project! This is a Simple, Rule-Based Python Application.
-The Chatbot stimulates a live, continuous coversation with a user by Evaluating Text Inputs and Generating contextual, predefined responses.
+The Chatbot simulates a live, continuous conversation with a user by Evaluating Text Inputs and Generating contextual, predefined responses.
 # Project Overview
 The Goal of this project is to master foundational programming principles.
 The Program runs continously inside the interactive loop until the user chooses to exit by typing a specific keyword.
@@ -21,4 +21,4 @@ The Program runs continously inside the interactive loop until the user chooses 
    python "Basic Chatbot.py"
    ```
 4. Type Your Message at the prompt and press Enter.
-5. Type **"Bye"** to Exit The Chatbot
+5. Type **"Bye"** to Exit The Chatbot.
