@@ -16,13 +16,14 @@ The Game Features a Curated List of Words to Guess:
 * Sunset
 * Guitar
 # How to Play:
-1. Open your Terminal, Command Prompt, or Python IDLE.
-2. Run The Script:
+1. Ensure you have **Python 3.x** installed on your System.
+2. Open your Terminal, Command Prompt, or Python IDLE.
+3. Run The Script:
    ```bash
    python "Hangman Game.py"
-3. You will Start with 6 Attempts.
-4. Type a Letter and hit Enter to make a guess.
-5. Guess the full word Correctly to Win! if your Attempts drops to 0, it's Game Over.
+4. You will Start with 6 Attempts.
+5. Type a Letter and hit Enter to make a guess.
+6. Guess the full word Correctly to Win! if your Attempts drops to 0, it's Game Over.
 # Tech Stack Used
 - **Language:** Python 3
 - **Modules:** random(Python Standard Library)
