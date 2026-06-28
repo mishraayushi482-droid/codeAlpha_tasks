@@ -21,6 +21,7 @@ The Game Features a Curated List of Words to Guess:
 3. Run The Script:
    ```bash
    python "Hangman Game.py"
+   ```
 4. You will Start with 6 Attempts.
 5. Type a Letter and hit Enter to make a guess.
 6. Guess the full word Correctly to Win! if your Attempts drops to 0, it's Game Over.
